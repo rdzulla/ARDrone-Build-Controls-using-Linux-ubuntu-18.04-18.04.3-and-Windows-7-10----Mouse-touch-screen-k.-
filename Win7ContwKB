@@ -1,0 +1,9 @@
+I need help with how to build controls for all ARDrone flight, video capture, navigation and fight sensors, 
+incorporating a list of autopilot flight paths as well as some AI code, such as letting the Drone decide the best 
+auto flight path to select from, based on data such as proximity sensor triggers, wind speed, weather condition, 
+charge remaining on battery, recent self diagnostic/performance scan, and or changes it detects when comparing 
+current video sample to saved snapshot of same location. I am currently trying to use Windows 7 and XP PC,s with 
+KB and mouse input for manual flight control input and updating software on-board the drone. Also can decisions be 
+based on some other function, ability or sensor resource on-board the ARDrone that I am not aware of ? If someone 
+can help with basic code building instructions to control flight with Windows 7 using KB and mouse it would 
+greatly appreciated , Thank You.
